@@ -1,6 +1,6 @@
 variables:
-  ConnectedServiceName: 'ridasgu-azure-resource-manager'
-  WebAppName: 'ridasgu-flaskpipelines-test'
+  ConnectedServiceName: 'ridasgu_rg_conn'
+  WebAppName: 'ridasgu-app'
 
 trigger:
 - master
